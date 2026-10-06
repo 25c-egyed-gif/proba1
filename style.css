@@ -1,0 +1,16 @@
+#rolunk::before, #hungarikum::before, #fajtak::before, #kapcsolat::before {
+    display: block;
+    margin-top: -5rem;
+    visibility: hidden;
+    content: "";
+}
+nav{
+    background-color: red;
+
+}
+
+hr{
+    width: 75%;
+    margin: 5;
+
+}
